@@ -5,13 +5,9 @@
     
 }
 
-#fascetta-bianca {
-    color:#ffffff;
-    height: 36px;
-    width: 1440px;
-    height: 36px;
-    padding: 5px;
-    padding-right: 100px;
+.celeste {
+    background-color: #4971ff;
+    color:white;
 }
 #fascetta a{
     color: white;
