@@ -1,16 +1,19 @@
 
-.celeste {
-    background-color: #4971ff;
-    color:white;
+#fascetta-celeste {
+    background: color #4971ff;
+    color: #4971ff;
+    
 }
+
 
 #fascetta {
     height: 36px;
+    width: 1440px;
     padding: 5px;
     padding-right: 100px;
 }
 #fascetta a{
-    color: #646464;
+    color: white;
     text-decoration:none;
 }
 #fascetta a:hover{
@@ -33,6 +36,7 @@
 }
 .elemento-carousel {
     height: 300px;
+    color: #646464;
 }
 
 #card {
