@@ -1,7 +1,7 @@
 
 #fascetta-navbar {
     background: color #4971ff;
-    color: #4971ff;
+    color: #fff;
     
 }
 
@@ -30,6 +30,7 @@
 
 #carousel {
     height: 367px;
+    color:#646446;
 }
 .elemento-carousel {
     height: 300px;
