@@ -1,5 +1,5 @@
 
-#fascetta-celeste {
+#fascetta-navbar {
     background: color #4971ff;
     color: #4971ff;
     
@@ -23,7 +23,7 @@
     height: 91px;
 }
 #navbar-bianca a {
-    color: #ff5c00;
+    color: #4971ff;
     text-decoration: none;
     font-size: 1.2rem;
 }
