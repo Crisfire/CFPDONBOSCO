@@ -1,0 +1,44 @@
+
+.celeste {
+    background-color: #4971ff;
+    color:white;
+}
+
+#fascetta {
+    height: 36px;
+    padding: 5px;
+    padding-right: 100px;
+}
+#fascetta a{
+    color: #646464;
+    text-decoration:none;
+}
+#fascetta a:hover{
+    color: #833471;
+}
+#navbar-bianca {
+    height: 91px;
+}
+#navbar-bianca a {
+    color: #ff5c00;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+#navbar-bianca a:hover {
+    color: #833471;
+}
+
+#carousel {
+    height: 367px;
+}
+.elemento-carousel {
+    height: 300px;
+}
+
+#card {
+    min-height: 367px;
+}
+
+#testo {
+    min-height: 367px;
+}
